@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/0ssam.github.io/static/css/main.a53822c8.css",
+    "main.js": "/0ssam.github.io/static/js/main.9fa54d5b.js",
+    "index.html": "/0ssam.github.io/index.html",
+    "main.a53822c8.css.map": "/0ssam.github.io/static/css/main.a53822c8.css.map",
+    "main.9fa54d5b.js.map": "/0ssam.github.io/static/js/main.9fa54d5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a53822c8.css",
+    "static/js/main.9fa54d5b.js"
+  ]
+}
